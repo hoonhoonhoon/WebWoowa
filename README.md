@@ -15,7 +15,7 @@ public class FullscreenActivity extends AppCompatActivity {
 ```
 > private String urlString = __"https://google.com";__ 의 값을 수정
 
-##iOS
+## iOS
 
 위치 : ViewController.swift
 
