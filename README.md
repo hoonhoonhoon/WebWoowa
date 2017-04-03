@@ -1,7 +1,7 @@
 # WebWow
 웹테스트용
 
-##Android
+## Android
 
 위치 : rollmind.com.webwoowa.**FullScreenActivity.java**
 
